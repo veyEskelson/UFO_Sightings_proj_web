@@ -1,8 +1,3 @@
-# UFO_Sightings_proj_web
-
-https://veyeskelson.github.io/UFO_Sightings_proj_web/index2.3.html
-
-
 # Unit 14 | Assignment - JavaScript and DOM Manipulation
 
 ## Background
